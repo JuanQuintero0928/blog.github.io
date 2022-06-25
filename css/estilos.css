@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cont1{
+    text-align: center;
+}
+.titulo{
+    font-size: 60px;
+    color: brown;
+}
+p{
+    font-size: 30px;
+    color: brown;
+}
